@@ -1,7 +1,7 @@
 # Task 1 – Email UI Design
 
 ## Description
-Designed a responsive email interface with a clean and professional layout. The email is structured for readability across devices and includes sections for headers, body content, call-to-action (CTA), and footer.
+Designed a application login interface with a clean and professional layout. The Sign in ans sign up pages are structured for readability across devices and includes sections for user input, call-to-action (CTA), and alerts.
 
 ## Tools Used
 - Figma (Design & Prototyping)
