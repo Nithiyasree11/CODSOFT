@@ -8,7 +8,7 @@ This repository contains the completed UI/UX tasks as part of the CODSOFT Intern
 - Task 3: Restaurant Menu App
 
 ## 🔗 Project Walkthrough Video
-🎥 [Watch the demo on LinkedIn](https://your-linkedin-post-link)
+🎥 [Watch the demo on LinkedIn](https://www.linkedin.com/posts/nithiyasree-rajaraman_codsoft-uiux-internship-activity-7346619311920246784-fwoI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEGBB1gBkFVL9uGLEd2iS1_hC__8Sskg2pA)
 
 ## 📁 Tasks
 - [Task 1 – Login Page](./Task-1-Login-Page/)
