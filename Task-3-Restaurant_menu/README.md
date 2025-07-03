@@ -7,7 +7,9 @@ Designed a restaurant menu app where users can browse categorized dishes, view d
 - Figma
 
 ## Preview
-![Restaurant Menu Preview](./menu-preview.png)
+![Restaurant Menu ](./Rest_menu_home.png)
+![Dish detail ](./Rest-menu-dish-detail.png)
+![Place order ](./Rest_menu_order.png)
 
 ## 🔗 Prototype Link
 ▶️ [Click here to view the prototype](https://www.figma.com/proto/S2WJgbYeHHNb6qtlPVKnJQ/Untitled?node-id=23-360&t=LjghEBIXSgUpPp3q-1)
