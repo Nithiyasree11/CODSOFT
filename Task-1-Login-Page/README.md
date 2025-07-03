@@ -8,6 +8,9 @@ Designed a application login interface with a clean and professional layout. The
 
 ## Preview
 ![Email UI Preview](./login-page-preview.png)
+![App Signup](./sign-up.png)
+![App login](./login.png)
+![App after sign in](./after-signin-page.png)
 
 ## 🔗 Prototype Link
 ▶️ [Click here to view the prototype](https://www.figma.com/proto/ygi7bRkQRvhuznZmWWHxl6/Untitled?node-id=0-1&t=xo0x8jmAvxKfFNN2-1)
