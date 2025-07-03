@@ -7,7 +7,7 @@ Built a web-based marketing email template suitable for businesses to send newsl
 - Figma
 
 ## Preview
-![Template Preview](./Emailtemplate375px.png)
+![Template Preview](./emailtemplate375px.png)
 
 ## 🔗 Prototype Link
 ▶️ [Click here to view the prototype](https://www.figma.com/proto/Nv4Gp03Qy4kHzyZP5Cq9BI/Untitled?node-id=0-1&t=UL0ObvYfsp8vsnwI-1)
