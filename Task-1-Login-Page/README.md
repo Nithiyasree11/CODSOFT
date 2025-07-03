@@ -7,7 +7,6 @@ Designed a application login interface with a clean and professional layout. The
 - Figma (Design & Prototyping)
 
 ## Preview
-![Email UI Preview](./login-page-preview.png)
 ![App Signup](./sign-up.png)
 ![App login](./login.png)
 ![App after sign in](./after-signin-page.png)
