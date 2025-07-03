@@ -11,7 +11,7 @@ This repository contains the completed UI/UX tasks as part of the CODSOFT Intern
 🎥 [Watch the demo on LinkedIn](https://your-linkedin-post-link)
 
 ## 📁 Tasks
-- [Task 1 – Email UI](./Task-1-/)
+- [Task 1 – Email UI](./Task-1-Login-Page/)
 - [Task 2 – Email Template](./Task-2-Email-Template/)
 - [Task 3 – Restaurant Menu](./Task-3-Restaurant-Menu/)
 
